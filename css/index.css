@@ -267,3 +267,29 @@ a {
     margin: 2rem;
     justify-content: space-evenly;
 }
+
+.about.content {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+button {
+    background: white;
+    border-radius: .7rem;
+    padding: .7rem;
+}
+
+.gallery {
+    display: flex;
+}
+
+.gallery1 {
+    flex: 1;
+}
+
+.gallery2 {
+    margin: 20px;
+}
+
+
