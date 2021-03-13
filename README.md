@@ -32,15 +32,25 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? 
+
+A: Semantic HTML is a specific way of marking up HTML documents that not only "marks" your file but adds meaning/context with each mark you make. It allows for others to not only read but understand the layout of your HTML and what it is trying to accomplish even before styling it. For instance: using h1 doesn't just mean that its a heading but also the most important one on the page. It conveys the meaning that this is your central point of the document. 
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+A: Many differences are found in the names of each display type. Display: block; displays elements in a block format with space above and below them. Display: inline; displays elements inside its current block on the same line, not forming its own block. There is no line before or after the element with inline and there is with block. 
+
 3. What are the 4 areas of the box model?
+
+A: Content edge, border edge, padding edge, margin edge. 
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+A: The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+A. Git allows for a team of developers to access a source code to their project while individually being able to create branches of their own to make necessary changes without ruining the source code itself. It is the thing that allows for multiple people to work on one project without conflicting with each other. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
